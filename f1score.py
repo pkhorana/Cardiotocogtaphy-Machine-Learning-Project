@@ -1,3 +1,6 @@
+#This program finds the F1 score of training each feature idndividually with the data to see which feature is the most important for making predictions.
+
+
 from numpy import random
 import pandas as pd
 from sklearn.metrics import f1_score
