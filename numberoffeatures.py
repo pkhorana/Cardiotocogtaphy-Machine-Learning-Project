@@ -1,3 +1,6 @@
+#This program makes predictions based on the F1 scores of each feature.
+#The purpose is to take out the less important features one by one to see if the performance measures improve.
+
 from numpy import random
 import numpy as np
 import pandas as pd
