@@ -1,3 +1,5 @@
+#This program creates an equal number of data for pathlogical, suspicious, and normal cases so that the data is balanced.
+
 from numpy import random
 import random
 import numpy as np
